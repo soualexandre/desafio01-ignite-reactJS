@@ -22,7 +22,7 @@ export function TaskList() {
         {
           id: idRandom,
           title: newTaskTitle,
-          isComplete: false,
+          isComplete: true,
         }
       ])
     }
